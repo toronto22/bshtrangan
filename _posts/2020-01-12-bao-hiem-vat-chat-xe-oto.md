@@ -4,7 +4,9 @@ title:  "Bảo hiểm vật chất xe ô tô"
 categories: [ Bảo hiểm ô tô]
 image: assets/images/bao-hiem-o-to-bsh.jpg
 ---
-Tên sản phẩm: Bảo hiểm thiệt hại vật chất xe ô tô
+*Bảo hiểm thân vỏ*
+
+Tên sản phẩm: Bảo hiểm thiệt hại vật chất xe ô tô 
 
 ## Mô tả sản phẩm
 
