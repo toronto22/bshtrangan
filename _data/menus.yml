@@ -7,8 +7,8 @@ topmenu:
 - title: About
   url: "about/"
 
-- title: Contact
-  url: "contact/"
+- title: Liên hệ
+  url: "tel:+0999999999"
 
 - title: 0999.999.999
   url: tel:+0999999999
