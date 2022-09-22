@@ -5,11 +5,11 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+**CÔNG TY BẢO HIỂM BSH TRÀNG AN**
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+- Địa chỉ: **Tầng 1, tòa nhà TNR Tower (Sky City), đường Láng Hạ, Phường Láng Hạ, Quận Đống đa, Hà Nội (Tìm vị trí)**
+- Mã số thuế: **0103085460-030**
+- Người ĐDPL: **Lưu Thanh Tâm**
+- Ngày hoạt động: **23/11/2017**
+- Giấy phép kinh doanh: **56/GPĐC 18/KDB**
+- Lĩnh vực: **Bảo hiểm phi nhân thọ khác**
