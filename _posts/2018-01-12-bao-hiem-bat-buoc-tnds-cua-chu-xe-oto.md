@@ -62,7 +62,7 @@ Trường hợp người lái xe gây tai nạn cố ý bỏ chạy nhưng đã 
 
 ## Hồ sơ yêu cầu bồi thường
 
-Khi xảy ra tổn thất cần giữ nguyên hiện trường, áp dụng các biện pháp cứu chữa thương tổn về người và hạn chế các tổn thất, thiệt hại về tài sản. Báo ngay cho cảnh sát giao thông hoặc cơ quan công an, chính quyền địa phương để phối hợp giải quyết tai nạn, gọi ngay hotline trên giấy chứng nhận bảo hiểm hoặc tổng đài CSKH 1900.96.96.09, thông báo tổn thất và nhận hướng dẫn cụ thể.
+Khi xảy ra tổn thất cần giữ nguyên hiện trường, áp dụng các biện pháp cứu chữa thương tổn về người và hạn chế các tổn thất, thiệt hại về tài sản. Báo ngay cho cảnh sát giao thông hoặc cơ quan công an, chính quyền địa phương để phối hợp giải quyết tai nạn, gọi ngay hotline trên giấy chứng nhận bảo hiểm hoặc tổng đài CSKH {{ site.phone }}, thông báo tổn thất và nhận hướng dẫn cụ thể.
 
 Hồ sơ yêu cầu bồi thường gồm những tài liệu sau:
 
