@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Bảo hiểm vật chất xe ô tô"
+title:  "Bảo hiểm vật chất xe ô tô (bảo hiểm thân vỏ)"
 categories: [ Bảo hiểm ô tô]
 image: assets/images/bao-hiem-o-to-bsh.jpg
 ---
-*Bảo hiểm thân vỏ*
 
 Tên sản phẩm: Bảo hiểm thiệt hại vật chất xe ô tô 
 
