@@ -10,8 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: {{ site.phone }}  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: 0999.999.999
+  url: tel:+0999999999
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
