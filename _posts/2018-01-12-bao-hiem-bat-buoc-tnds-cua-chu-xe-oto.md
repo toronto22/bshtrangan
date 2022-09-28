@@ -5,12 +5,9 @@ author: mai
 categories: [ Bảo hiểm ô tô ]
 image: assets/images/BH-BB-TNDS-cua-chu-xe-oto-1.jpg
 ---
-Tên sản phẩm: Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe ô tô
-
-## Mô tả sản phẩm
+**Tên sản phẩm**: Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe ô tô
 
 Bảo hiểm bắt buộc trách nhiệm dân sự (TNDS) của chủ xe ô tô là loại hình bảo hiểm bắt buộc người sở hữu xe ô tô phải tham gia theo quy định của pháp luật.
-
 Bảo hiểm bắt buộc xe ô tô của BSH hỗ trợ chủ xe bồi thường cho những thiệt hại về thân thể, tính mạng và tài sản mà người điều khiển xe gây ra cho bên thứ ba trong quá trình tham gia giao thông.
 
 ## Đối tượng bảo hiểm
