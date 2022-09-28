@@ -11,7 +11,7 @@ topmenu:
 #   url: "tel:+0999999999"
 #   external: true
 
-- title: 0977287042
+- title: 0977.287.042
   url: tel:+0977287042
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
