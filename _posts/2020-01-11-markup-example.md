@@ -1,26 +1,32 @@
 ---
 layout: post
-title:  "Markdown Example"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+title:  "Bảo hiểm thiệt hại vật chất xe máy"
+author: mai
+categories: [ Bảo hiểm xe máy ]
+image: assets/images/xe-may.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.
+**Tên sản phẩm**: Bảo hiểm thiệt hại vật chất xe máy
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Bảo hiểm thiệt hại vật chất xe máy của BSH bồi thường cho chủ xe, người được bảo hiểm số tiền thực tế và hợp lý để khắc phục tổn thất toàn bộ xe trước những rủi ro cháy nổ, mất cướp toàn bộ mô tô - xe máy
 
-Jekyll also offers powerful support for code snippets:
+## Đối tượng bảo hiểm
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Xe mô tô/ xe máy hoạt động trên lãnh thổ Việt Nam.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## Phạm vi bảo hiểm
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+## Quyền lợi bảo hiểm
+
+
+
+## Điểm loại trừ bảo hiểm
+
+
+
+## Hồ sơ yêu cầu bồi thường
+
+
+## Quy tắc bảo hiểm
+
+Quy định quy tắc, điều khoản, biểu phí và mức trách nhiệm bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới ban hành theo Nghị định số 03/2021/NĐ-CP của Chính phủ.
