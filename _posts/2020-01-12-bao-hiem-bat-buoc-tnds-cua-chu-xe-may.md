@@ -7,8 +7,6 @@ image: assets/images/xe-may.jpg
 ---
 **Tên sản phẩm**: Bảo hiểm bắt buộc TNDS của chủ xe mô tô – xe máy
 
-## Mô tả sản phẩm
-
 Bảo hiểm bắt buộc TNDS của chủ xe mô tô - xe máy của BSH hỗ trợ chủ xe bồi thường cho những thiệt hại về thân thể, tính mạng và tài sản mà người điều khiển xe gây ra cho bên thứ ba trong quá trình tham gia giao thông.
 
 ## Đối tượng bảo hiểm
