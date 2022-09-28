@@ -1,8 +1,8 @@
 # Top Menu
 topmenu:
 
-# - title: Home
-#   url: ""
+- title: Home
+  url: ""
 
 - title: Sản phẩm
   url: "categories/"
@@ -11,10 +11,10 @@ topmenu:
 #   url: "tel:+0999999999"
 #   external: true
 
-- title: 0977.287.042
-  url: tel:0977287042
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+# - title: 0977.287.042
+#   url: tel:0977287042
+#   class: "ml-2 btn btn-dark text-white px-3"
+#   external: true
 
 # Footer Menu
 footermenu:
