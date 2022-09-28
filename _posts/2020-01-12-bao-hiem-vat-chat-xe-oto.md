@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Bảo hiểm vật chất xe ô tô (bảo hiểm thân vỏ)"
+author: mai
 categories: [ Bảo hiểm ô tô]
 image: assets/images/bao-hiem-o-to-bsh.jpg
 ---
