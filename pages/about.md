@@ -5,7 +5,7 @@ permalink: "/about/"
 image: assets/images/bao-hiem-o-to-bsh.png
 ---
 
-**CÔNG TY BẢO HIỂM BSH TRÀNG AN**
+## **CÔNG TY BẢO HIỂM BSH TRÀNG AN**
 
 - Địa chỉ: Tầng 1, tòa nhà TNR Tower (Sky City), đường Láng Hạ, Phường Láng Hạ, Quận Đống đa, Hà Nội (Tìm vị trí)
 - Mã số thuế: 0103085460-030
