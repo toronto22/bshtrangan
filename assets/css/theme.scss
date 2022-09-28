@@ -135,13 +135,13 @@ small, .small {
 ================================================== */
 .hero {
     background: #fdd93d;
+    padding: 5rem 5rem;
     display: flex;
     justify-content: flex-start;
     align-items: center;
     padding-top: 60px;
     padding-bottom: 60px;
     overflow: hidden;
-    padding: 2rem 2rem;
 }
 
 @media only screen and (max-width: 1024px) {
