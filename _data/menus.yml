@@ -4,8 +4,8 @@ topmenu:
 # - title: Home
 #   url: ""
 
-# - title: About
-#   url: "about/"
+- title: Sản phẩm
+  url: "categories/"
 
 # - title: Liên hệ
 #   url: "tel:+0999999999"
