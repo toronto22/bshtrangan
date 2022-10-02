@@ -1,8 +1,8 @@
 # Top Menu
 topmenu:
 
-# - title: Home
-#   url: ""
+- title: trang chủ
+  url: ""
 
 - title: Sản phẩm
   url: "categories/"
@@ -19,15 +19,15 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Trang chủ
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Sản phẩm
+  url: "categories/"
 
-- title: Contact
-  url: "contact/"
+# - title: Contact
+#   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: Liên Hệ
+  url: tel:0977287042
   external: true
