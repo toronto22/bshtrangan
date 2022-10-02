@@ -19,13 +19,14 @@ post_class: post-template
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 			<div class="mainheading">             
-                
+                <a href="{{site.call}}" class="btn btn-dark text-white btn-lg" target="_blank">{{site.phone}}</a>
                 <!-- Post Categories -->
                 <div class="after-post-tags">
                     <ul class="tags">
                         {% assign sortedCategories = page.categories | sort %}
                         {% for category in sortedCategories %}
                         <li>
+                        <a href="{{site.call}}" class="btn btn-dark text-white btn-lg" target="_blank">{{site.phone}}</a>
                          <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
                         </li>
                         {% endfor %}
