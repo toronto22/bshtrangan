@@ -1,8 +1,8 @@
 # Top Menu
 topmenu:
 
-- title: Trang chủ
-  url: ""
+# - title: Trang chủ
+#   url: ""
 
 - title: Sản phẩm
   url: "categories/"
