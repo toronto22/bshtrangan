@@ -11,8 +11,8 @@ topmenu:
 #   url: "tel:+0999999999"
 #   external: true
 
-# - title: 0988.338.383
-#   url: tel:0988338383
+# - title: 0977.287.042
+#   url: tel:0977287042
 #   class: "ml-2 btn btn-dark text-white px-3"
 #   external: true
 
@@ -29,5 +29,5 @@ footermenu:
 #   url: "contact/"
 
 - title: Liên Hệ
-  url: tel:0988338383
+  url: tel:0977287042
   external: true
