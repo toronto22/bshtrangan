@@ -14,6 +14,8 @@ post_class: post-template
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
 
+        <a href="{{site.call}}" class="btn btn-dark text-white btn-lg" target="_blank">Liên Hệ</a>
+
 		<div class="col-sm-8">
             <!-- Post Featured Image -->
 			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
